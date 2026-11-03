@@ -1,0 +1,1148 @@
+{
+ "schema_version": 1,
+ "book": {
+  "title": "Free Samples",
+  "subtitle": "One puzzle from each level of the book",
+  "author": "",
+  "copyright_year": 2026
+ },
+ "levels": [
+  {
+   "level": 1,
+   "name": "Warm-Up",
+   "desc": "Small grids with a Word Bank and starter letters. One helper goes away at a time.",
+   "tip": "Welcome! These first puzzles teach you how crosswords work, one step at a time.",
+   "first": 1,
+   "last": 1
+  },
+  {
+   "level": 2,
+   "name": "On Your Own",
+   "desc": "Small grids, clues only. No helpers now!",
+   "tip": "Level 2: no Word Bank now! The first few puzzles still have a few letters filled in. Count the boxes to see how long each answer is, fill in the clues you're sure about, and let crossing letters help with the rest.",
+   "first": 2,
+   "last": 2
+  },
+  {
+   "level": 3,
+   "name": "Bigger Grids",
+   "desc": "9 by 9 grids with more words to find.",
+   "tip": "Level 3: a bigger grid! Work one corner at a time. If a crossing letter doesn't fit, one of the two words is wrong, so check both.",
+   "first": 3,
+   "last": 3
+  },
+  {
+   "level": 4,
+   "name": "Big Grids",
+   "desc": "11 by 11 grids with longer words.",
+   "tip": "Level 4: big grids with longer words. Solve a few long words early; they give you letters for lots of short ones.",
+   "first": 4,
+   "last": 4
+  },
+  {
+   "level": 5,
+   "name": "Expert",
+   "desc": "Big grids with harder words and trickier clues. Work out the hidden theme yourself!",
+   "tip": "Level 5: harder words and trickier clues. The puzzle no longer tells you what its hidden group is. When you spot a few answers that belong together, you've found the theme!",
+   "first": 5,
+   "last": 5
+  },
+  {
+   "level": 6,
+   "name": "Champion",
+   "desc": "The biggest grids in the book. Can you finish them all?",
+   "tip": "Level 6: the biggest puzzles in the book. Take your time: solve a few, take a break, and come back with fresh eyes.",
+   "first": 6,
+   "last": 6
+  }
+ ],
+ "certificates": [],
+ "hunt_names": {
+  "animal": "animals",
+  "food": "foods",
+  "nature": "nature words",
+  "home": "things in a house",
+  "sport": "sports words",
+  "job": "jobs",
+  "music": "music words",
+  "school": "school words",
+  "vehicle": "ways to get around",
+  "clothes": "things to wear",
+  "body": "body parts",
+  "weather": "weather words",
+  "time": "time words",
+  "space": "space words",
+  "number": "number words",
+  "color": "colors",
+  "family": "family members",
+  "game": "games",
+  "feeling": "feelings"
+ },
+ "puzzles": [
+  {
+   "number": 1,
+   "level": 1,
+   "style": "fit",
+   "title": "Cookie Jar",
+   "theme": "food",
+   "theme_words": [
+    "ICING",
+    "SUGAR"
+   ],
+   "hunt": "2 foods are hiding in this puzzle.",
+   "size": 5,
+   "revealed": [
+    [
+     0,
+     0
+    ],
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     0,
+     4
+    ]
+   ],
+   "show": {
+    "bank": true,
+    "clues": false,
+    "icons": true,
+    "hunt": "named"
+   },
+   "tips": [
+    "Welcome! These first puzzles teach you how crosswords work, one step at a time.",
+    "How to play: No clues this time! Count the boxes for each word, then find a word in the Word Bank with that many letters. One word is already done for you, so use its letters to help place the others."
+   ],
+   "entries": [
+    {
+     "num": 1,
+     "dir": "across",
+     "row": 0,
+     "col": 0,
+     "answer": "SUGAR",
+     "clue": "Sweet stuff in cookies and cake"
+    },
+    {
+     "num": 4,
+     "dir": "across",
+     "row": 2,
+     "col": 0,
+     "answer": "ICING",
+     "clue": "Frosting with a fancier name"
+    },
+    {
+     "num": 5,
+     "dir": "across",
+     "row": 4,
+     "col": 0,
+     "answer": "EIGHT",
+     "clue": "Count your fingers, but not your thumbs"
+    },
+    {
+     "num": 1,
+     "dir": "down",
+     "row": 0,
+     "col": 0,
+     "answer": "SMILE",
+     "clue": "Say cheese and ____ for the camera"
+    },
+    {
+     "num": 2,
+     "dir": "down",
+     "row": 0,
+     "col": 2,
+     "answer": "GOING",
+     "clue": "\"Are you ____ or staying?\""
+    },
+    {
+     "num": 3,
+     "dir": "down",
+     "row": 0,
+     "col": 4,
+     "answer": "RIGHT",
+     "clue": "Not the left side"
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "level": 2,
+   "style": "solo",
+   "title": "Blast Off!",
+   "theme": "space",
+   "theme_words": [
+    "EARTH",
+    "SPACE",
+    "SUN"
+   ],
+   "hunt": "3 space words are hiding in this puzzle.",
+   "size": 7,
+   "revealed": [
+    [
+     0,
+     0
+    ],
+    [
+     0,
+     6
+    ],
+    [
+     2,
+     2
+    ],
+    [
+     4,
+     0
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "show": {
+    "bank": false,
+    "clues": true,
+    "icons": false,
+    "hunt": "named"
+   },
+   "tips": [
+    "Level 2: no Word Bank now! The first few puzzles still have a few letters filled in. Count the boxes to see how long each answer is, fill in the clues you're sure about, and let crossing letters help with the rest."
+   ],
+   "entries": [
+    {
+     "num": 1,
+     "dir": "across",
+     "row": 0,
+     "col": 0,
+     "answer": "SPACE",
+     "clue": "Home of the Milky Way"
+    },
+    {
+     "num": 4,
+     "dir": "across",
+     "row": 2,
+     "col": 2,
+     "answer": "FIRST",
+     "clue": "A gold medal means you came in ____"
+    },
+    {
+     "num": 5,
+     "dir": "across",
+     "row": 4,
+     "col": 0,
+     "answer": "MONTH",
+     "clue": "May or March"
+    },
+    {
+     "num": 7,
+     "dir": "across",
+     "row": 6,
+     "col": 2,
+     "answer": "YOUNG",
+     "clue": "A puppy is a ____ dog"
+    },
+    {
+     "num": 1,
+     "dir": "down",
+     "row": 0,
+     "col": 0,
+     "answer": "SUN",
+     "clue": "Our planet travels around it once a year"
+    },
+    {
+     "num": 2,
+     "dir": "down",
+     "row": 0,
+     "col": 4,
+     "answer": "EARTH",
+     "clue": "Our home planet"
+    },
+    {
+     "num": 3,
+     "dir": "down",
+     "row": 0,
+     "col": 6,
+     "answer": "OUT",
+     "clue": "Take the trash ____"
+    },
+    {
+     "num": 4,
+     "dir": "down",
+     "row": 2,
+     "col": 2,
+     "answer": "FUNNY",
+     "clue": "A good joke is ____"
+    },
+    {
+     "num": 5,
+     "dir": "down",
+     "row": 4,
+     "col": 0,
+     "answer": "MAP",
+     "clue": "Find our town on this"
+    },
+    {
+     "num": 6,
+     "dir": "down",
+     "row": 4,
+     "col": 6,
+     "answer": "HUG",
+     "clue": "A big squeeze with both arms"
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "level": 3,
+   "style": "solo",
+   "title": "Stretch and Bend",
+   "theme": "body",
+   "theme_words": [
+    "ARM",
+    "BELLY",
+    "EYE",
+    "TOE",
+    "TUMMY"
+   ],
+   "hunt": "5 body parts are hiding in this puzzle.",
+   "size": 9,
+   "revealed": [
+    [
+     2,
+     5
+    ],
+    [
+     6,
+     3
+    ]
+   ],
+   "show": {
+    "bank": false,
+    "clues": true,
+    "icons": false,
+    "hunt": "named"
+   },
+   "tips": [
+    "Level 3: a bigger grid! Work one corner at a time. If a crossing letter doesn't fit, one of the two words is wrong, so check both."
+   ],
+   "entries": [
+    {
+     "num": 1,
+     "dir": "across",
+     "row": 0,
+     "col": 0,
+     "answer": "BELLY",
+     "clue": "Ouch! A ____ flop into the pool"
+    },
+    {
+     "num": 3,
+     "dir": "across",
+     "row": 0,
+     "col": 6,
+     "answer": "ARM",
+     "clue": "Your elbow is in the middle of it"
+    },
+    {
+     "num": 5,
+     "dir": "across",
+     "row": 2,
+     "col": 2,
+     "answer": "COUNTRY",
+     "clue": "Canada is one, and so is Mexico"
+    },
+    {
+     "num": 7,
+     "dir": "across",
+     "row": 4,
+     "col": 0,
+     "answer": "PAY",
+     "clue": "You ____ for things at a store"
+    },
+    {
+     "num": 8,
+     "dir": "across",
+     "row": 4,
+     "col": 6,
+     "answer": "TOE",
+     "clue": "Your big ____ is on your foot"
+    },
+    {
+     "num": 9,
+     "dir": "across",
+     "row": 6,
+     "col": 0,
+     "answer": "PROBLEM",
+     "clue": "\"No ____!\" means it is easy"
+    },
+    {
+     "num": 12,
+     "dir": "across",
+     "row": 8,
+     "col": 0,
+     "answer": "RAN",
+     "clue": "Ella ____ to the finish line"
+    },
+    {
+     "num": 13,
+     "dir": "across",
+     "row": 8,
+     "col": 4,
+     "answer": "RHYME",
+     "clue": "Poems often do this at the end of lines"
+    },
+    {
+     "num": 1,
+     "dir": "down",
+     "row": 0,
+     "col": 0,
+     "answer": "BUS",
+     "clue": "Ride this to school"
+    },
+    {
+     "num": 2,
+     "dir": "down",
+     "row": 0,
+     "col": 2,
+     "answer": "LUCKY",
+     "clue": "Having good things happen by chance"
+    },
+    {
+     "num": 3,
+     "dir": "down",
+     "row": 0,
+     "col": 6,
+     "answer": "ACT",
+     "clue": "____ out a story in the school show"
+    },
+    {
+     "num": 4,
+     "dir": "down",
+     "row": 0,
+     "col": 8,
+     "answer": "MAYBE",
+     "clue": "\"We'll see,\" or \"Possibly\""
+    },
+    {
+     "num": 6,
+     "dir": "down",
+     "row": 2,
+     "col": 4,
+     "answer": "UNTIL",
+     "clue": "Wait here ____ the bell rings"
+    },
+    {
+     "num": 7,
+     "dir": "down",
+     "row": 4,
+     "col": 0,
+     "answer": "PAPER",
+     "clue": "Fold this to make a plane"
+    },
+    {
+     "num": 8,
+     "dir": "down",
+     "row": 4,
+     "col": 6,
+     "answer": "TUMMY",
+     "clue": "A kid's word for your stomach"
+    },
+    {
+     "num": 10,
+     "dir": "down",
+     "row": 6,
+     "col": 2,
+     "answer": "OWN",
+     "clue": "I have my ____ bike now"
+    },
+    {
+     "num": 11,
+     "dir": "down",
+     "row": 6,
+     "col": 8,
+     "answer": "EYE",
+     "clue": "A wink closes one"
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "level": 4,
+   "style": "solo",
+   "title": "Clean Sweep",
+   "theme": "home",
+   "theme_words": [
+    "APRON",
+    "BED",
+    "BROOM",
+    "PLATE",
+    "SHAMPOO",
+    "SPOON"
+   ],
+   "hunt": "6 things in a house are hiding in this puzzle.",
+   "size": 11,
+   "revealed": [],
+   "show": {
+    "bank": false,
+    "clues": true,
+    "icons": false,
+    "hunt": "named"
+   },
+   "tips": [
+    "Level 4: big grids with longer words. Solve a few long words early; they give you letters for lots of short ones."
+   ],
+   "entries": [
+    {
+     "num": 1,
+     "dir": "across",
+     "row": 0,
+     "col": 0,
+     "answer": "FOREVER",
+     "clue": "Best friends ____!"
+    },
+    {
+     "num": 3,
+     "dir": "across",
+     "row": 0,
+     "col": 8,
+     "answer": "BED",
+     "clue": "Pillows and blankets go on it"
+    },
+    {
+     "num": 5,
+     "dir": "across",
+     "row": 2,
+     "col": 0,
+     "answer": "ROBIN",
+     "clue": "A bird that pulls worms from the lawn in spring"
+    },
+    {
+     "num": 7,
+     "dir": "across",
+     "row": 2,
+     "col": 6,
+     "answer": "PANDA",
+     "clue": "Giant ____, a bear with black eye patches that munches bamboo"
+    },
+    {
+     "num": 9,
+     "dir": "across",
+     "row": 4,
+     "col": 4,
+     "answer": "SHAMPOO",
+     "clue": "Wash your hair with this"
+    },
+    {
+     "num": 11,
+     "dir": "across",
+     "row": 6,
+     "col": 0,
+     "answer": "SOMEONE",
+     "clue": "Did ____ leave the light on in the hall?"
+    },
+    {
+     "num": 12,
+     "dir": "across",
+     "row": 8,
+     "col": 0,
+     "answer": "APRON",
+     "clue": "You wear this to keep clean while cooking"
+    },
+    {
+     "num": 14,
+     "dir": "across",
+     "row": 8,
+     "col": 6,
+     "answer": "BREAK",
+     "clue": "Recess is a ____ from schoolwork"
+    },
+    {
+     "num": 16,
+     "dir": "across",
+     "row": 10,
+     "col": 0,
+     "answer": "EAT",
+     "clue": "\"Come and ____, dinner is ready!\""
+    },
+    {
+     "num": 17,
+     "dir": "across",
+     "row": 10,
+     "col": 4,
+     "answer": "WATCHED",
+     "clue": "We ____ the fireworks from the hill"
+    },
+    {
+     "num": 1,
+     "dir": "down",
+     "row": 0,
+     "col": 0,
+     "answer": "FAR",
+     "clue": "Miles and miles away"
+    },
+    {
+     "num": 2,
+     "dir": "down",
+     "row": 0,
+     "col": 4,
+     "answer": "VAN",
+     "clue": "A big car that holds the whole team"
+    },
+    {
+     "num": 3,
+     "dir": "down",
+     "row": 0,
+     "col": 8,
+     "answer": "BUN",
+     "clue": "A hot dog goes in a ____"
+    },
+    {
+     "num": 4,
+     "dir": "down",
+     "row": 0,
+     "col": 10,
+     "answer": "DIAMOND",
+     "clue": "A sparkly gem, or a kite shape"
+    },
+    {
+     "num": 6,
+     "dir": "down",
+     "row": 2,
+     "col": 2,
+     "answer": "BROOM",
+     "clue": "A witch rides one in stories"
+    },
+    {
+     "num": 7,
+     "dir": "down",
+     "row": 2,
+     "col": 6,
+     "answer": "PLATE",
+     "clue": "Put your sandwich on this"
+    },
+    {
+     "num": 8,
+     "dir": "down",
+     "row": 4,
+     "col": 0,
+     "answer": "MESSAGE",
+     "clue": "Grandma left a ____ on the phone"
+    },
+    {
+     "num": 9,
+     "dir": "down",
+     "row": 4,
+     "col": 4,
+     "answer": "SPOON",
+     "clue": "Use this to dig into a bowl of ice cream"
+    },
+    {
+     "num": 10,
+     "dir": "down",
+     "row": 4,
+     "col": 8,
+     "answer": "PLACE",
+     "clue": "Set one more ____ at the dinner table"
+    },
+    {
+     "num": 13,
+     "dir": "down",
+     "row": 8,
+     "col": 2,
+     "answer": "RAT",
+     "clue": "A rodent bigger than a mouse"
+    },
+    {
+     "num": 14,
+     "dir": "down",
+     "row": 8,
+     "col": 6,
+     "answer": "BUT",
+     "clue": "I like apples, ____ I do not like pears"
+    },
+    {
+     "num": 15,
+     "dir": "down",
+     "row": 8,
+     "col": 10,
+     "answer": "KID",
+     "clue": "Child, for short"
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "level": 5,
+   "style": "mystery",
+   "title": "Team Spirit",
+   "theme": "sport",
+   "theme_words": [
+    "CATCHER",
+    "DARTS",
+    "GYM",
+    "SKI",
+    "SWIMMER"
+   ],
+   "hunt": "5 sports words are hiding in this puzzle.",
+   "size": 11,
+   "revealed": [],
+   "show": {
+    "bank": false,
+    "clues": true,
+    "icons": false,
+    "hunt": "hidden"
+   },
+   "tips": [
+    "Level 5: harder words and trickier clues. The puzzle no longer tells you what its hidden group is. When you spot a few answers that belong together, you've found the theme!"
+   ],
+   "entries": [
+    {
+     "num": 2,
+     "dir": "across",
+     "row": 0,
+     "col": 2,
+     "answer": "SOMETHING",
+     "clue": "I have ____ to tell you!"
+    },
+    {
+     "num": 7,
+     "dir": "across",
+     "row": 2,
+     "col": 0,
+     "answer": "ICE",
+     "clue": "Frozen water that turns to liquid when warm"
+    },
+    {
+     "num": 8,
+     "dir": "across",
+     "row": 2,
+     "col": 4,
+     "answer": "DENTIST",
+     "clue": "The person you visit to keep your teeth healthy"
+    },
+    {
+     "num": 9,
+     "dir": "across",
+     "row": 4,
+     "col": 0,
+     "answer": "MELTING",
+     "clue": "Changing from a solid to a liquid"
+    },
+    {
+     "num": 11,
+     "dir": "across",
+     "row": 4,
+     "col": 8,
+     "answer": "GYM",
+     "clue": "A room with hoops and climbing ropes"
+    },
+    {
+     "num": 13,
+     "dir": "across",
+     "row": 6,
+     "col": 0,
+     "answer": "RED",
+     "clue": "Fire trucks are often this color"
+    },
+    {
+     "num": 15,
+     "dir": "across",
+     "row": 6,
+     "col": 4,
+     "answer": "CATCHER",
+     "clue": "In baseball, this player wears a mask and a big mitt"
+    },
+    {
+     "num": 17,
+     "dir": "across",
+     "row": 8,
+     "col": 0,
+     "answer": "THROUGH",
+     "clue": "A needle's thread goes ____ the hole"
+    },
+    {
+     "num": 19,
+     "dir": "across",
+     "row": 8,
+     "col": 8,
+     "answer": "SKI",
+     "clue": "Used to glide across snow on your feet"
+    },
+    {
+     "num": 20,
+     "dir": "across",
+     "row": 10,
+     "col": 0,
+     "answer": "YESTERDAY",
+     "clue": "The day before today"
+    },
+    {
+     "num": 1,
+     "dir": "down",
+     "row": 0,
+     "col": 0,
+     "answer": "SWIMMER",
+     "clue": "Someone in goggles doing the backstroke"
+    },
+    {
+     "num": 2,
+     "dir": "down",
+     "row": 0,
+     "col": 2,
+     "answer": "SMELL",
+     "clue": "Sniff with your nose"
+    },
+    {
+     "num": 3,
+     "dir": "down",
+     "row": 0,
+     "col": 4,
+     "answer": "MUD",
+     "clue": "Rain turns dirt into this"
+    },
+    {
+     "num": 4,
+     "dir": "down",
+     "row": 0,
+     "col": 6,
+     "answer": "TONIGHT",
+     "clue": "May I stay up late ____?"
+    },
+    {
+     "num": 5,
+     "dir": "down",
+     "row": 0,
+     "col": 8,
+     "answer": "ICING",
+     "clue": "Frosting by another name"
+    },
+    {
+     "num": 6,
+     "dir": "down",
+     "row": 0,
+     "col": 10,
+     "answer": "GOT",
+     "clue": "Our class ____ a new fish tank"
+    },
+    {
+     "num": 10,
+     "dir": "down",
+     "row": 4,
+     "col": 4,
+     "answer": "INCLUDE",
+     "clue": "Don't leave anyone out: ____ everyone"
+    },
+    {
+     "num": 12,
+     "dir": "down",
+     "row": 4,
+     "col": 10,
+     "answer": "MORNING",
+     "clue": "Breakfast time of day"
+    },
+    {
+     "num": 14,
+     "dir": "down",
+     "row": 6,
+     "col": 2,
+     "answer": "DARTS",
+     "clue": "A game of throwing at a bullseye"
+    },
+    {
+     "num": 16,
+     "dir": "down",
+     "row": 6,
+     "col": 8,
+     "answer": "HUSKY",
+     "clue": "A thick-coated dog that pulls a sled"
+    },
+    {
+     "num": 17,
+     "dir": "down",
+     "row": 8,
+     "col": 0,
+     "answer": "TRY",
+     "clue": "\"Just ____ one bite!\""
+    },
+    {
+     "num": 18,
+     "dir": "down",
+     "row": 8,
+     "col": 6,
+     "answer": "HAD",
+     "clue": "We ____ pancakes for breakfast"
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "level": 6,
+   "style": "mystery",
+   "title": "Wide Open Skies",
+   "theme": "nature",
+   "theme_words": [
+    "GRASS",
+    "LIGHTNING",
+    "MOONLIGHT",
+    "OCEAN",
+    "PLANT",
+    "SEA"
+   ],
+   "hunt": "6 nature words are hiding in this puzzle.",
+   "size": 13,
+   "revealed": [],
+   "show": {
+    "bank": false,
+    "clues": true,
+    "icons": false,
+    "hunt": "hidden"
+   },
+   "tips": [
+    "Level 6: the biggest puzzles in the book. Take your time: solve a few, take a break, and come back with fresh eyes."
+   ],
+   "entries": [
+    {
+     "num": 2,
+     "dir": "across",
+     "row": 0,
+     "col": 2,
+     "answer": "KITES",
+     "clue": "Fly these on a windy day"
+    },
+    {
+     "num": 5,
+     "dir": "across",
+     "row": 0,
+     "col": 8,
+     "answer": "PLANT",
+     "clue": "A living thing that grows in soil"
+    },
+    {
+     "num": 7,
+     "dir": "across",
+     "row": 2,
+     "col": 0,
+     "answer": "RUN",
+     "clue": "Race across the field"
+    },
+    {
+     "num": 9,
+     "dir": "across",
+     "row": 2,
+     "col": 4,
+     "answer": "LIGHTNING",
+     "clue": "It flashes before the thunder"
+    },
+    {
+     "num": 11,
+     "dir": "across",
+     "row": 4,
+     "col": 0,
+     "answer": "WHISPER",
+     "clue": "To speak in a very quiet voice"
+    },
+    {
+     "num": 12,
+     "dir": "across",
+     "row": 4,
+     "col": 8,
+     "answer": "FENCE",
+     "clue": "A gate is part of one"
+    },
+    {
+     "num": 13,
+     "dir": "across",
+     "row": 6,
+     "col": 0,
+     "answer": "AGE",
+     "clue": "Your ____ goes up on your birthday"
+    },
+    {
+     "num": 14,
+     "dir": "across",
+     "row": 6,
+     "col": 4,
+     "answer": "OCEAN",
+     "clue": "The Atlantic or the Pacific"
+    },
+    {
+     "num": 15,
+     "dir": "across",
+     "row": 6,
+     "col": 10,
+     "answer": "CUT",
+     "clue": "Snip, snip! ____ along the dotted line"
+    },
+    {
+     "num": 16,
+     "dir": "across",
+     "row": 8,
+     "col": 0,
+     "answer": "ANGLE",
+     "clue": "Each corner of a square is a 90-degree one"
+    },
+    {
+     "num": 18,
+     "dir": "across",
+     "row": 8,
+     "col": 6,
+     "answer": "BEATING",
+     "clue": "My heart was ____ fast after the race"
+    },
+    {
+     "num": 20,
+     "dir": "across",
+     "row": 10,
+     "col": 0,
+     "answer": "MOONLIGHT",
+     "clue": "Glow from the sky on a clear night"
+    },
+    {
+     "num": 22,
+     "dir": "across",
+     "row": 10,
+     "col": 10,
+     "answer": "SEA",
+     "clue": "Fish and whales live in it"
+    },
+    {
+     "num": 23,
+     "dir": "across",
+     "row": 12,
+     "col": 0,
+     "answer": "PENNY",
+     "clue": "A one-cent coin"
+    },
+    {
+     "num": 24,
+     "dir": "across",
+     "row": 12,
+     "col": 6,
+     "answer": "LOCAL",
+     "clue": "Our ____ park is a short walk away"
+    },
+    {
+     "num": 1,
+     "dir": "down",
+     "row": 0,
+     "col": 0,
+     "answer": "THROW",
+     "clue": "____ the ball to me!"
+    },
+    {
+     "num": 3,
+     "dir": "down",
+     "row": 0,
+     "col": 4,
+     "answer": "TELEPHONE",
+     "clue": "Ring, ring! Answer the ____"
+    },
+    {
+     "num": 4,
+     "dir": "down",
+     "row": 0,
+     "col": 6,
+     "answer": "SUGAR",
+     "clue": "Lemonade needs lemons, water and ____"
+    },
+    {
+     "num": 5,
+     "dir": "down",
+     "row": 0,
+     "col": 8,
+     "answer": "PUT",
+     "clue": "Please ____ a stamp on the letter"
+    },
+    {
+     "num": 6,
+     "dir": "down",
+     "row": 0,
+     "col": 10,
+     "answer": "ALIEN",
+     "clue": "A visitor from another planet in a story"
+    },
+    {
+     "num": 8,
+     "dir": "down",
+     "row": 2,
+     "col": 2,
+     "answer": "NOISE",
+     "clue": "A sound that is often loud"
+    },
+    {
+     "num": 10,
+     "dir": "down",
+     "row": 2,
+     "col": 12,
+     "answer": "GREAT",
+     "clue": "The ____ Lakes are five huge lakes in North America"
+    },
+    {
+     "num": 12,
+     "dir": "down",
+     "row": 4,
+     "col": 8,
+     "answer": "FANTASTIC",
+     "clue": "Super, amazing, wonderful"
+    },
+    {
+     "num": 13,
+     "dir": "down",
+     "row": 6,
+     "col": 0,
+     "answer": "ALARM",
+     "clue": "A loud sound that wakes you up"
+    },
+    {
+     "num": 15,
+     "dir": "down",
+     "row": 6,
+     "col": 10,
+     "answer": "CHIPS",
+     "clue": "Thin, crispy potato snacks"
+    },
+    {
+     "num": 17,
+     "dir": "down",
+     "row": 8,
+     "col": 2,
+     "answer": "GROWN",
+     "clue": "You have ____ so tall!"
+    },
+    {
+     "num": 18,
+     "dir": "down",
+     "row": 8,
+     "col": 6,
+     "answer": "BAGEL",
+     "clue": "A sesame seed ____ is tasty with cream cheese"
+    },
+    {
+     "num": 19,
+     "dir": "down",
+     "row": 8,
+     "col": 12,
+     "answer": "GRASS",
+     "clue": "Green stuff you mow in the yard"
+    },
+    {
+     "num": 21,
+     "dir": "down",
+     "row": 10,
+     "col": 4,
+     "answer": "LAY",
+     "clue": "Hens ____ eggs"
+    }
+   ]
+  }
+ ]
+}

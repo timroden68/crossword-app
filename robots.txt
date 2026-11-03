@@ -1,0 +1,5 @@
+# app.crosswordadventures.com
+# The app page itself asks not to be listed in search (noindex), so people find crosswordadventures.com first.
+# Crawlers may read it (so they see that), but have no reason to fetch the data files.
+User-agent: *
+Disallow: /data/
