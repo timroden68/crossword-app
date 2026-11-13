@@ -1,0 +1,14 @@
+{
+ "kdf": "PBKDF2-SHA256",
+ "iterations": 600000,
+ "cipher": "AES-256-GCM",
+ "invite_salt": "24U6SkFmKEbt2nAFrDvUkg==",
+ "boxes": [
+  {
+   "id": "i01",
+   "kind": "invite",
+   "iv": "WU7c4boxGwTeVg1b",
+   "wrapped": "WDQFUeqtFGVW5W1omXRq4mGQS9jhIlrzp4vklh/4xEl6dPLXjfbuVUIMFhU9QjP4"
+  }
+ ]
+}

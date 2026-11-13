@@ -1,0 +1,194 @@
+{
+ "kdf": "PBKDF2-SHA256",
+ "iterations": 600000,
+ "cipher": "AES-256-GCM",
+ "invite_salt": "mENJ/iNgBrAsZZxVYMj4uA==",
+ "boxes": [
+  {
+   "id": "q01",
+   "kind": "question",
+   "prompt": "Puzzle 45: type the answers to 7-Across, 1-Down and 8-Down",
+   "fields": 3,
+   "salt": "6fT0FDSB3v7tf6nhjPO+KQ==",
+   "iv": "Blj/mgPogZvOBQGt",
+   "wrapped": "cJ0YnFpVt92CzzvS+PqmxDl3Am4bTVI8CwvVpEpfY5v4oihwhaqied4huT35cDDY"
+  },
+  {
+   "id": "q02",
+   "kind": "question",
+   "prompt": "Puzzle 38: type the answers to 1-Across, 9-Across and 1-Down",
+   "fields": 3,
+   "salt": "PoI+zVLswN4TmfVjLzDk9A==",
+   "iv": "TrGk7jevFKUcZhpw",
+   "wrapped": "oyMm0KM/u9kCBJuPMldcIIc5h0+xDI+YmvlCMnig3YeVt0bvBg0b9TfD6sPWDCJs"
+  },
+  {
+   "id": "q03",
+   "kind": "question",
+   "prompt": "Puzzle 37: type the answers to 12-Across, 7-Down and 11-Down",
+   "fields": 3,
+   "salt": "kREi5odlyPBhH5Kj/Pbafw==",
+   "iv": "83un0ta3Ek8Ll4xI",
+   "wrapped": "+p32MJHG/zZKe++z603FxIkVPbMtq2W67LDzj9feDvZwsErv0LnrAdoCZuhkOFe+"
+  },
+  {
+   "id": "q04",
+   "kind": "question",
+   "prompt": "Puzzle 47: type the answers to 6-Across, 2-Down and 9-Down",
+   "fields": 3,
+   "salt": "dPO9Mc1dcIkYKdncHu1qww==",
+   "iv": "YCGnwqe8BhFh3SUY",
+   "wrapped": "Wov8dTIlontWWQSBGMWSfXi0+xnOiUDOpesCgF4em5sdlyM/pVte5/67lM3ZpKBK"
+  },
+  {
+   "id": "q05",
+   "kind": "question",
+   "prompt": "Puzzle 26: type the answers to 1-Across, 5-Across and 13-Across",
+   "fields": 3,
+   "salt": "lJsDZymiA5EKUiNKOUywVw==",
+   "iv": "pNrdoWFA+3Q6M21M",
+   "wrapped": "SSeEYzjZmb4Tn/I1m999sSLcFdprh+5Z0M7UZRnji6aP9flUETC2H8pxEeaK/6de"
+  },
+  {
+   "id": "q06",
+   "kind": "question",
+   "prompt": "Puzzle 28: type the answers to 5-Across, 9-Across and 2-Down",
+   "fields": 3,
+   "salt": "IDxcS2xVKZX+C+54IxY4sw==",
+   "iv": "3iwtwrAvmzHAz0Eg",
+   "wrapped": "xWcE9mRLApmN1+Xxr6SuLXV8/ub419+EBBMe3VJ2pdpo7uB2dMAafg5uqfiLud5O"
+  },
+  {
+   "id": "q07",
+   "kind": "question",
+   "prompt": "Puzzle 49: type the answers to 10-Across, 2-Down and 6-Down",
+   "fields": 3,
+   "salt": "scJ4Xh4PjilKvelz2RmV9g==",
+   "iv": "VFNXxojdwLStrwGS",
+   "wrapped": "nc13exIGorf2Z3tjnpyElLphLtlb21uoEjHacnowWVRWeKD/t6aGc8LwmxJR0TYj"
+  },
+  {
+   "id": "q08",
+   "kind": "question",
+   "prompt": "Puzzle 64: type the answers to 9-Across, 14-Across and 5-Down",
+   "fields": 3,
+   "salt": "FYDBYXRek64HMVzT8gbo5Q==",
+   "iv": "wrSuOnADykUunHyl",
+   "wrapped": "pTLnAAfx3qOqA2MmkzkqT//cXbjJY7N8f2suG87PZEw7/uJTgtJTWowRaYiII1L1"
+  },
+  {
+   "id": "q09",
+   "kind": "question",
+   "prompt": "Puzzle 59: type the answers to 15-Across, 17-Across and 12-Down",
+   "fields": 3,
+   "salt": "NRppskhKiXa/xx8BdbCXNQ==",
+   "iv": "sMQGUpdY6QC2r9Z7",
+   "wrapped": "yQ+kw6uHivUxC7zwkfru8lVYy58LuX/yz4sbDDhHGftzBR0wtSBCdysN60Herqt6"
+  },
+  {
+   "id": "q10",
+   "kind": "question",
+   "prompt": "Puzzle 55: type the answers to 16-Across, 6-Down and 8-Down",
+   "fields": 3,
+   "salt": "r3Or/6ITdlgFBt/Yg1dhKw==",
+   "iv": "4cpgY2FFGV+I6EQQ",
+   "wrapped": "W7/+8yHdsVHedV9BQ6XTCjWai6Vpzn62zNaDqdcJQqcHbFhSZUqUYWhIzSAUXMEN"
+  },
+  {
+   "id": "q11",
+   "kind": "question",
+   "prompt": "Puzzle 54: type the answers to 5-Across, 1-Down and 9-Down",
+   "fields": 3,
+   "salt": "xIiHN9b1mOft9EWhz1311g==",
+   "iv": "qbbEF753lbcrvIF7",
+   "wrapped": "Ym6RrWruKh2koY+gnVwkem8Fe1X7vfw4+LNU3c4XqYOnfNGVTFoK6cFoOy9M3I3G"
+  },
+  {
+   "id": "q12",
+   "kind": "question",
+   "prompt": "Puzzle 73: type the answers to 2-Across, 14-Across and 9-Down",
+   "fields": 3,
+   "salt": "Fti/vrg9/LNgzA3jVQuIaQ==",
+   "iv": "SRbNb8lFRPE3TD5D",
+   "wrapped": "Jo/WXZsVXmAxji3AEgp7CL2bLfMx8AlolN4RaOL3SlEL05rPPpOYqVYiNBN1mdw3"
+  },
+  {
+   "id": "q13",
+   "kind": "question",
+   "prompt": "Puzzle 71: type the answers to 7-Across, 4-Down and 13-Down",
+   "fields": 3,
+   "salt": "KrLVhLdeAJiuXErvE+XlCg==",
+   "iv": "ff7Od2THZT0N3S1K",
+   "wrapped": "W49XlTjzgLzfTEaWJw/9OG9/eJV7n4yR+pZ7dEsVeB/uUrBUOhT18p8UmZIk+JXQ"
+  },
+  {
+   "id": "q14",
+   "kind": "question",
+   "prompt": "Puzzle 69: type the answers to 7-Across, 19-Across and 9-Down",
+   "fields": 3,
+   "salt": "9jTJ6ySACYGBInlayU8BOg==",
+   "iv": "86Je+qAY9xvRc9oa",
+   "wrapped": "cGSD9W248sLIAJ9YoEHROglxKNl5i6Lgw5LAvRR1ys20Z+drRz/omCkBUlBwTR33"
+  },
+  {
+   "id": "q15",
+   "kind": "question",
+   "prompt": "Puzzle 84: type the answers to 9-Down, 11-Down and 12-Down",
+   "fields": 3,
+   "salt": "e95Jj4mpWIeKoe0A3ggphw==",
+   "iv": "3SIVNADQM6JBWcOf",
+   "wrapped": "xwT8gVDowwH7lR+SWbOjf02gQ3N3SNZPYcDgSq1oqyQHaVFXVYMEq619Z/PonwRF"
+  },
+  {
+   "id": "q16",
+   "kind": "question",
+   "prompt": "Puzzle 83: type the answers to 3-Across, 4-Down and 10-Down",
+   "fields": 3,
+   "salt": "xcxX+0hZ7QY9iCCNupd1NA==",
+   "iv": "XtjtKTZm3BWzXe71",
+   "wrapped": "Wgwz4i3VVI71UjyxCPDgR35YQmdgFGb2PzCwaJKMW0QmZhVsRVa3CGe/VUSW+et8"
+  },
+  {
+   "id": "q17",
+   "kind": "question",
+   "prompt": "Puzzle 86: type the answers to 15-Across, 19-Across and 11-Down",
+   "fields": 3,
+   "salt": "adoVjQ5WTCMZhMUpjqDcpw==",
+   "iv": "OEdekpaqAffFq//Z",
+   "wrapped": "TnwOs7EgCMBklx+j7zXPJmCt4Y+dNyZN0eNAg9aOTuDyeMgKeeiApZWABrZhjzrZ"
+  },
+  {
+   "id": "q18",
+   "kind": "question",
+   "prompt": "Puzzle 76: type the answers to 8-Across, 16-Across and 4-Down",
+   "fields": 3,
+   "salt": "t3iKPjdzjG+XaEbPb9XQdg==",
+   "iv": "AuJfIzZgvhXwy7hh",
+   "wrapped": "dCyw6niBHeZC05PR/uDq32nDfVyuEiy9DkcUXoJLESsVIK6iv3LuJHqrY+kMBGdZ"
+  },
+  {
+   "id": "q19",
+   "kind": "question",
+   "prompt": "Puzzle 94: type the answers to 1-Across, 23-Across and 12-Down",
+   "fields": 3,
+   "salt": "rBpbQxsFp1tT1AV0VSGYGQ==",
+   "iv": "PDalTvSgplbtzGmT",
+   "wrapped": "kXq/6QDlXbMuii7iDA0wTmTLQ8PVcE/7cmR3yC0ipZDMuXRUC58v4oh1l4X+eQ5D"
+  },
+  {
+   "id": "q20",
+   "kind": "question",
+   "prompt": "Puzzle 98: type the answers to 10-Across, 6-Down and 10-Down",
+   "fields": 3,
+   "salt": "4U/LnbhFT3UGRJVSqB0WFA==",
+   "iv": "spnei8CABr/ljIuk",
+   "wrapped": "9Vkrs2AYOl5wC8DorVy3gQZeMHLMAUHoB5UKR1FDcOG4ErFn5oTIGi5pr0w6Zs6N"
+  },
+  {
+   "id": "i01",
+   "kind": "invite",
+   "iv": "qj1isdLAV+jEf0U2",
+   "wrapped": "AGfRJdizTahLqRWti6hLOu179yDWM/rN/D5nO88WxMV7oY8ko0L3amTTV/XVX2cz"
+  }
+ ]
+}

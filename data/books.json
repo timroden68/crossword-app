@@ -1,0 +1,41 @@
+{
+ "schema_version": 1,
+ "samples": "samples.json",
+ "books": [
+  {
+   "hidden": false,
+   "slug": "adventuresone",
+   "title": "Crossword Adventures",
+   "subtitle": "100 Puzzles for Kids 8 and Up",
+   "edition": "US Edition",
+   "author": "Xavier H. Wang",
+   "puzzles": 100,
+   "data": "books/adventuresone.enc",
+   "locks": "books/adventuresone.locks.json",
+   "version": "a5d910b790bbd18c"
+  },
+  {
+   "hidden": true,
+   "slug": "personal",
+   "title": "My Puzzles",
+   "subtitle": "Puzzles I made",
+   "author": "",
+   "puzzles": 2,
+   "data": "books/personal.enc",
+   "locks": "books/personal.locks.json",
+   "version": "ef703f4d06ab4116"
+  },
+  {
+   "hidden": false,
+   "slug": "adventuresone-uk",
+   "title": "Crossword Adventures",
+   "subtitle": "100 Puzzles for Kids 8 and Up",
+   "edition": "UK Edition",
+   "author": "Xavier H. Wang",
+   "puzzles": 100,
+   "data": "books/adventuresone-uk.enc",
+   "locks": "books/adventuresone-uk.locks.json",
+   "version": "a2a0c446b6711fab"
+  }
+ ]
+}
